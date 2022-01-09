@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" target="_blank"></a> 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" target="_blank"></a> 
 <a href = "mailto:eduardofangeli@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://mempool.space/address/bc1q8hje83sdjn79xmxgxnnxfdut8fvfe0f2trwejl"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-<a href = "https://www.paypal.com/donate?business=ZTZ3LJH4YVCRJ&no_recurring=0&currency_code=BRL"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+
 
 </div>
   
